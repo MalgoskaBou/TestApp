@@ -1,3 +1,4 @@
+
 <h2>Hello students and mentors!</h2>
 
 I am really happy to introduce you game, that was made by group of people from our Polish regional channel on Slack!
@@ -56,5 +57,6 @@ We encourage everyone to write an application inspired by this course. We think 
 **We are really happy that we are here. Udacity & Google proves to us that programming can be funny and social. :D It’s very interesting journey.**
 
 **So remember - don't give up, you are not alone on this journey. ;)**
+
 
 
