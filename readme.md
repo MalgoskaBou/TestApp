@@ -58,5 +58,7 @@ We encourage everyone to write an application inspired by this course. We think 
 
 **So remember - don't give up, you are not alone on this journey. ;)**
 
+Test push from juliar 10.02.2018
+
 
 
